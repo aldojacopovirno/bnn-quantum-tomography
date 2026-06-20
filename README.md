@@ -8,8 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Modular, reproducible implementation of the 3-qubit experiment accompanying the
-thesis *Quantificazione dell'Incertezza nelle Reti Neurali Bayesiane per la
-Tomografia degli Stati Quantistici*.
+thesis *"Sulle Reti Neurali Bayesiane per la Tomografia degli Stati Quantistici"*.
 
 The repository reconstructs the density matrix of a 3-qubit quantum system
 from noisy measurement frequencies using a **Bayesian Neural Network (BNN)**,
