@@ -74,7 +74,7 @@ of mean-field variational inference.
 ## Repository structure
 
 ```
-repo/
+bnn-quantum-tomography/
 ├── main.py                      # CLI orchestrator (stages: data|train|eval|sweep|plot|all)
 ├── bnn_qst/
 │   ├── config.py                # Canonical Config dataclass (thesis-aligned)
